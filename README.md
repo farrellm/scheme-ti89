@@ -3,14 +3,20 @@
 Scheme for the TI-89
 versions .1
 
-This is the beginnings of a Scheme interpreter for TI-89 and TI-92+ calculators.  Current support is limited, but more will be coming soon.
+This is the beginnings of a Scheme interpreter for TI-89 and TI-92+
+calculators.  Current support is limited, but more will be coming
+soon.
 
-If you are unfamiliar with Scheme, it is a dialect of LISP and is probably best known for being the language taught in 6.001, the intro computer science course at MIT.  For more information on Scheme, see:
- http://sicp.ai.mit.edu/Spring-2004/handouts-and-documentation.html
- http://mitpress.mit.edu/sicp/full-text/book/book.html
+If you are unfamiliar with Scheme, it is a dialect of LISP and is
+ probably best known for being the language taught in 6.001, the intro
+ computer science course at MIT.  For more information on Scheme, see:
+- http://sicp.ai.mit.edu/Spring-2004/handouts-and-documentation.html
+- http://mitpress.mit.edu/sicp/full-text/book/book.html
 
-To use: send appropriate files to your calculator (in the bin directory), write a Scheme program in a calculator text file named "scmprog" and run scheme()
-Note that nothing is displayed automatically, you must use the "print" procedure to display results.
+To use: send appropriate files to your calculator (in the bin
+directory), write a Scheme program in a calculator text file named
+"scmprog" and run scheme() Note that nothing is displayed
+automatically, you must use the "print" procedure to display results.
 
 Features:
 - Definition and reassignment of variables.
